@@ -1,0 +1,37 @@
+body{
+    font-family: "jetbrains mono", Arial, Helvetica, sans-serif
+    ;}
+
+h1 {
+    display: inline;
+    text-align: center;
+}
+
+
+img {display: block;
+    padding-bottom: 20px;
+    margin: auto;
+    min-width: 100px;
+    min-height: 100px;
+    max-width: 300px;
+    max-height: 300px;
+    align-self: center;
+}
+
+.breakingnews {color: red;
+font-weight: bolder;}
+
+#author {font-size: 10px;
+font-weight: lighter;
+text-align: right;}
+
+/* body {align-content: center;} */
+
+#article {border: 1px solid darkgray;
+padding: 10px;
+background-color: beige;}
+
+#heading {border: 1px solid darkgray;
+padding: 10px;
+text-align: center;
+/* justify-content: center; */}
